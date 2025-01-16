@@ -9,17 +9,17 @@ Here’s a glimpse of what I’ve been working on:
 ### **1. Loan Prediction System** 🏦
 - **Description:** Predicts loan eligibility based on user inputs like income, loan amount, and credit history.
 - **Tech Stack:** Python, Machine Learning, Flask, and HTML/CSS.
-- **Repository:** [Loan Prediction System](https://github.com/khushi1224/Loan-Prediction)
+- **Repository:** [Loan Prediction System](https://github.com/khushi1224/Loan-Approval-Prediction)
 
 ### **2. Connectly - Chat Application** 💬
 - **Description:** A user-friendly chat application built with the MERN stack, featuring real-time messaging, user authentication, and customizable themes.
 - **Tech Stack:** MongoDB, Express.js, React, Node.js, and Socket.IO.
-- **Repository:** [Connectly Chat App](https://github.com/khushi1224/Connectly)
+- **Repository:** [Connectly Chat App](https://github.com/khushi1224/Connectly_Chat_App)
 
 ### **3. Food Recipe App** 🍲
 - **Description:** Provides a variety of delicious recipes for food lovers. Search for recipes, save favorites, and explore new cuisines!
 - **Tech Stack:** HTML, CSS, JavaScript, and API integration.
-- **Repository:** [Food Recipe App](https://github.com/khushi1224/Food-Recipe-App)
+- **Repository:** [Food Recipe App](https://github.com/khushi1224/FoodVerse)
 
 ---
 
